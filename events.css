@@ -1,0 +1,25 @@
+.pink-bg{
+    border: 3px solid teal;
+    width: 320px;
+    height: 280px;
+    margin: 0% auto;
+   /* background-image: url(/imgs/listening-to-music-at-work.jpg);
+   background-repeat: no-repeat;
+   background-size: cover; */
+    }
+.img-class{
+    display: inline;
+    margin-left: 10%;
+}
+.img-class img{
+    /* box-sizing: border-box; */
+    width: 280px;
+    height: 280px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border: 3px solid yellow;
+
+}
+
+
+
